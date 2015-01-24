@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="640"
+	maxImageHeight="960"
+
+>
+  <image imageURL="images/poster2_small.jpg"
+	thumbURL="thumbs/poster2_small.jpg"
+	linkURL="images/poster2_small.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\poster2_small.png">
+    <title><![CDATA[poster2_small]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Splash.jpg"
+	thumbURL="thumbs/Splash.jpg"
+	linkURL="images/Splash.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\Splash.png">
+    <title><![CDATA[Splash]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image.jpg"
+	thumbURL="thumbs/image.jpg"
+	linkURL="images/image.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\image.png">
+    <title><![CDATA[image]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image-1.jpg"
+	thumbURL="thumbs/image-1.jpg"
+	linkURL="images/image-1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\image-1.png">
+    <title><![CDATA[image-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image-3.jpg"
+	thumbURL="thumbs/image-3.jpg"
+	linkURL="images/image-3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\image-3.png">
+    <title><![CDATA[image-3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image-2.jpg"
+	thumbURL="thumbs/image-2.jpg"
+	linkURL="images/image-2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\David\Dropbox\Grad School\Portfolio\Master[ed]\image-2.png">
+    <title><![CDATA[image-2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
